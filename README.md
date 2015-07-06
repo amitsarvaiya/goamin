@@ -1,0 +1,2 @@
+# goamin
+first go app
